@@ -1,0 +1,53 @@
+body {
+    background-color: beige;
+    text-align: center;
+
+}
+
+td, th, table {
+    border: 1px solid orange; 
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+#buttonDiv {
+    border: 1px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+button {
+    border-radius: 25px;    
+}
+
+button:hover {
+    color: aqua;
+    cursor: pointer;
+}
+
+#flipButton, #clearButton {
+    font-size: 25px;
+}
+
+#flipButton {
+    background: darkgrey;    
+}
+
+#clearButton {
+    background: orange;
+}
+
+
+#container {
+    background: white;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
