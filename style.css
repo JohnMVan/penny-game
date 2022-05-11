@@ -39,6 +39,14 @@ button:hover {
     background: orange;
 }
 
+#outCome {
+    color: brown;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+}
 
 #container {
     background: white;
